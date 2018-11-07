@@ -6317,3 +6317,18 @@ a.text-dark:hover, a.text-dark:focus {
 
 .nav-link:hover {
   text-decoration: underline; }
+
+.active, .btn:hover {
+  background-color: #666;
+  color: white; }
+
+.jumbotron {
+  color: white;
+  background: url("../media/pirate-ship.jpg") no-repeat center;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  background-size: cover;
+  min-height: 425px;
+  padding-block-end: 3px; }
+  .jumbotron .display-3 {
+    margin-top: 150px; }
